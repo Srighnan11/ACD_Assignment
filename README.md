@@ -1,2 +1,2 @@
-# ACD_Assignment
-Key Takeaways from the OCI Data Science Professional Course
+# Key Takeaways from the OCI Data Science Professional Course
+I successfully completed the Oracle Cloud Infrastructure (OCI) Data Science Professional course under the Oracle Race to Certification program. The program provided an end-to-end experience of the machine learning lifecycle on OCI — covering everything from creating workspaces and preparing data, to training models, deploying them into production, and monitoring their performance.
